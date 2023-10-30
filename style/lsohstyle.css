@@ -60,7 +60,7 @@ h1{
 
 
 .sey {
-    background-image: url("seymour.PNG");
+    background-image: url("style/seymour.PNG");
     background-size: cover;
     width: 200px;
     height: 200px;
@@ -68,7 +68,7 @@ h1{
 
 
 .aud {
-    background-image: url("audrey.PNG");
+    background-image: url("style/audrey.PNG");
     background-size: cover;
     width: 200px;
     height: 200px;
@@ -76,21 +76,21 @@ h1{
 
 
 .plan {
-    background-image: url("plant.PNG");
+    background-image: url("style/plant.PNG");
     background-size: cover;
     width: 200px;
     height: 200px; 
 }
 
 .ori {
-        background-image: url("orin.PNG");
+        background-image: url("style/orin.PNG");
         background-size: cover;
         width: 200px;
         height: 200px;
 }
 
 .mush {
-    background-image: url("mushnik.PNG");
+    background-image: url("style/mushnik.PNG");
     background-size: cover;
     width: 200px;
     height: 200px; 
