@@ -1,0 +1,19 @@
+const human = {
+    name:['audrey', 'seymour', 'mushnik', 'orin'],     
+    status: ['alive','dead'],
+    morality:['good','bad'],
+    songs: [''],
+}
+
+const plant = {
+    name: ['audrey ii'], 
+    status: ['alive', 'dead'],
+}
+
+const plot = {
+    arc: ['setup','rising','climax','falling'],
+}
+
+
+document.querySelector('image')
+console.log("image");

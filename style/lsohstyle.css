@@ -1,0 +1,123 @@
+@font-face {
+    font-family: 'Duramadrop One';
+    src: url('DarumadropOne-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Blinker';
+    src: url('Blinker-Regular.ttf') format('truetype');
+}
+
+
+
+body {
+    background-color: #080900;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #F5FBDF;
+    font-family: 'Duramadrop One', sans-serif;
+    font-size: 64px;
+
+}
+
+p {
+    color: #F5FBDF;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Blinker', sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+.img  {
+    display: flex;
+    grid-template-columns: repeat(5, 1fr);
+    grid-gap: 10px; 
+    justify-content: space-between;
+    margin: 30px;
+}
+
+.par  {
+    display: flex;
+    grid-template-columns: repeat(5, 1fr);
+    grid-gap: 10px; 
+    justify-content: space-between;
+}
+
+.nam {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.son {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+
+.sey {
+    background-image: url("seymour.PNG");
+    background-size: cover;
+    width: 200px;
+    height: 200px;
+}
+
+
+.aud {
+    background-image: url("audrey.PNG");
+    background-size: cover;
+    width: 200px;
+    height: 200px;
+}
+
+
+.plan {
+    background-image: url("plant.PNG");
+    background-size: cover;
+    width: 200px;
+    height: 200px; 
+}
+
+.ori {
+        background-image: url("orin.PNG");
+        background-size: cover;
+        width: 200px;
+        height: 200px;
+}
+
+.mush {
+    background-image: url("mushnik.PNG");
+    background-size: cover;
+    width: 200px;
+    height: 200px; 
+}
+
+
+.par{
+ font-family: 'Blinker',sans-serif;   
+ justify-content: space-around;
+ color: #F5FBDF;
+}
+
+
+
+.sel {
+    text-align: center;
+    font-family: 'Duramadrop One',sans-serif;
+    font-size: 40px;
+    color: #f90000;
+}
+
+
+
+.cont {
+    font-family: 'Blinker',sans-serif;
+    color: #F5FBDF;
+    justify-content: space-between;
+    margin: 30px;
+    text-align: center;
+}
